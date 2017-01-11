@@ -8,7 +8,7 @@ receiver='yvhqbat@126.com'
 subject='python email test'
 smtpserver='smtp.126.com'
 username='liudongwho@126.com'
-password='yvhqbat6874'
+password='***'
 
 msg=MIMEText('this is a test email')
 msg['Subject']=subject
